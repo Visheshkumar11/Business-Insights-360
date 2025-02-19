@@ -6,7 +6,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 ## Live Dashboard
 
-Explore the live dashboard [here]().
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMjQ3YWNlZDUtY2I3Zi00Zjc1LWIwYzMtMDU0Mjk4OGY5YWVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Features
 
